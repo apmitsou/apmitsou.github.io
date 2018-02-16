@@ -1,10 +1,27 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/apmitsou/apmitsou.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+
+# Table of contents
+1. [Introduction](#introduction)
+2. [Some paragraph](#paragraph1)
+    1. [Sub paragraph](#subparagraph1)
+3. [Another paragraph](#paragraph2)
+
+## This is the introduction <a name="introduction"></a>
+Some introduction text, formatted in heading 2 style
+
+## Some paragraph <a name="paragraph1"></a>
+The first paragraph text
+
+### Sub paragraph <a name="subparagraph1"></a>
+This is a sub paragraph, formatted in heading 3 style
+
+## Another paragraph <a name="paragraph2"></a>
+The second paragraph text
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
