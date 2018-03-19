@@ -12,7 +12,7 @@ teste [Teste](https://apmitsou.github.io/ds/)
 ## Welcome to GitHub Pages
 
 
-[Blog Data Science](https://apmitsou.github.io/ds/)
+[MInha Pagina](https://apmitsou.github.io/ds/)
 
 
 
